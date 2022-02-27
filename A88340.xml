@@ -1,0 +1,576 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lambeth faire, vvherein you have all the bishops trinkets set to sale.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88340</idno>
+            <idno type="STC">Wing L246</idno>
+            <idno type="STC">Thomason E158_20</idno>
+            <idno type="STC">ESTC R20918</idno>
+            <idno type="EEBO-CITATION">99868070</idno>
+            <idno type="PROQUEST">99868070</idno>
+            <idno type="VID">156908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E158[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lambeth faire, vvherein you have all the bishops trinkets set to sale.</title>
+               </titleStmt>
+               <extent>[12] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156908:1"/>
+            <pb facs="tcp:156908:1" rendition="simple:additions"/>
+            <p>LAMBETH FAIRE, VVherein you have all the <hi>Biſhops Trinkets</hi> ſet to <hi>Sale.</hi>
+            </p>
+            <figure>
+               <figDesc>a bishop laments from his episcopal throne</figDesc>
+               <p>Heu quan<g ref="char:EOLhyphen"/>ta de ſpe decidi.</p>
+               <p>O tempora! O Mores!</p>
+               <lg>
+                  <l>I ſit thus groveling in S. <hi>Peters</hi> Chaire,</l>
+                  <l>'Ore-preſt with griefe to thinke on <hi>Lambeth Faire.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Death cloſe mine eyes with thy eternall doome,</l>
+                  <l>Before this <hi>Faire</hi> be thus proclaim'd at
+<hi>Rome:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>O mihi praeteritos referet ſi</hi> Iupiter
+<hi>annos</hi>
+                  </l>
+                  <l>
+                     <hi>Qualis eram</hi>—</l>
+               </lg>
+            </figure>
+            <p>Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156908:2"/>
+            <head>To the Reader.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He rare Poeticke wits of theſe our Times,</l>
+               <l>Are daily chanting curious Hymnes and Rymes.</l>
+               <l>VVhoſe lines pe fum'd, ſmell ſweet as any Rope,</l>
+               <l>For <hi>Engliſh Biſhops,</hi> or the <hi>Romiſh Pope.</hi>
+               </l>
+               <l>But mine ſmell not ſo ſtrong, for I am ſory,</l>
+               <l>Our <hi>Biſhops</hi> ſhould change Caps with <hi>Doctor Story.</hi>
+               </l>
+               <l>Then Reader now, if thou wouldſt underſtand,</l>
+               <l>Why this ſame matter thus I take in hand:</l>
+            </lg>
+            <lg>
+               <l>Becauſe I love my braine to exerciſe,</l>
+               <l>Though <hi>Zoylous,</hi> hap, may thinke tis otherwiſe,</l>
+               <l>Becauſe I love to keepe my minde from folly,</l>
+               <l>Or humour which is called Melancholy.</l>
+               <l>But ſome will ſay, perhaps, if this be true,</l>
+               <l>You might have kept it from the vulgar vew:</l>
+               <l>I anſwer no, for who could then repaire,</l>
+               <l>To buy new faſhion Robes at <hi>Lambeth Faire.</hi>
+               </l>
+               <l>The Parliament hath pul'd them downe, and I</l>
+               <l>Have ſet their trinkets out for men to buy,</l>
+               <l>Lawne-ſleeves, Hoods, Surpliſſes, with reſt o'th rabble,</l>
+               <l>Thus ends the Prologue, Here begins the Fable.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:156908:2"/>
+            <head>
+               <hi>LAMBETH FAIRE,</hi>
+               <list>
+                  <item>Wherein is ſold,</item>
+                  <item>Ceremonies all</item>
+                  <item>Both new and old.</item>
+               </list>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>O ſooner was the ſable darkneſſe paſt,</l>
+               <l>And <hi>Sol</hi> his Eye on our Horizon caſt</l>
+               <l>By whoſe bright becames thoſe clouds diſ<g ref="char:EOLhyphen"/>perſed were,</l>
+               <l>Which did benight the Land with horrid feare;</l>
+               <l>But preſently the people heard ſtrange Fables,</l>
+               <l>The Biſhops went to <hi>Lambeth</hi> with their Bables,</l>
+               <l>Where a <hi>new Faire</hi> was lately conſecrate</l>
+               <l>For Popiſh Garments, that were out of date:</l>
+               <l>And when their ſhops and ſtalls, and boothes were made</l>
+               <l>With all things ſitting for that <hi>holy Trade:</hi>
+               </l>
+               <l>O'th tops o'th ſtandings all, for fear of evill,</l>
+               <l>Were Croſſes ſet, to ſcare away the Divell:</l>
+               <l>With might and maine, the people 'gan to flöcke,</l>
+               <l>And all were preſent there, by nine a clock,</l>
+               <l>The Clearke o'th' <hi>Faire</hi> was preſently beſpoken,</l>
+               <l>To give them liberty, their ſtalls to open,</l>
+               <l>To keepe out theeves the <hi>Keepers</hi> p'ace he deemes;</l>
+               <l>But <hi>Keeper</hi> he was run away it ſeemes:</l>
+               <pb facs="tcp:156908:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156908:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156908:4"/>
+               <l>Well let him goe, the <hi>Biſhops</hi> cri'd, what then?</l>
+               <l>We have a nimble, and quickſighted <hi>Wren,</hi>
+               </l>
+               <l>Who when he comes, can ſoare and fly about,</l>
+               <l>To ſpy, and keep the knaviſh Rable out.</l>
+            </lg>
+            <lg>
+               <l>The Maſter of the <hi>Fayr</hi> was cal'd upon,</l>
+               <l>But anſwer's made, he to the Tower is gon;</l>
+               <l>That he was abſent, it was taken ill,</l>
+               <l>But ſure he went toth' Tower againſt his will:</l>
+               <l>
+                  <hi>Proclaym the Fayr,</hi> the <hi>Biſhops</hi> all, they cryed,</l>
+               <l>For we dare hardly, longer here abide;</l>
+               <l>The <hi>Cleark</hi> gave leave, the <hi>Cryer</hi> on a hill</l>
+               <l>Standing, began to cry with voyce ſo ſhrill.
+<q>
+                     <l>O-yes, O-yes, I do cry,</l>
+                     <l>The Biſhops Trinkets who will buy?</l>
+                  </q>
+               </l>
+               <l>This being done of <hi>Biſhops,</hi> all the Crew,</l>
+               <l>Began with ſpeed, their wearing Robes to ſhew,</l>
+               <l>And with extended voyce, they all did cry,</l>
+               <l>Come Cuſtomers, ſee what you lack and buy;</l>
+               <l>Here's Veſtments Conſecrate, all ſorts and ſizes,</l>
+               <l>You may have here, if you'll come to the priſes:</l>
+               <l>Buy Fayrings for your Children, here are toyes,</l>
+               <l>Fit for your purpoſe, be they Gerls, or Boyes;</l>
+               <l>Caps for your Boyes to hurle into the aïre,</l>
+               <l>And Beads for Gerles, are here in <hi>Lambeth Fayr:</hi>
+               </l>
+               <l>What though theſe Robes were firſt deviſ'd in Hell,</l>
+               <l>Tuſh thats no matter, we'll good-pen worths ſell:</l>
+               <l>Here look upon them, they are very good and ſtrong,</l>
+               <l>They'r neate and handſom, and will laſt you long,</l>
+               <l>They'r very full and large. you nere ſaw ſtronger;</l>
+               <l>I would not ſell them durſt I keepe them longer.</l>
+               <pb facs="tcp:156908:4"/>
+               <l>Buy a <hi>Crucifix,</hi> another loud doth call,</l>
+               <l>'Twill ſcare the <hi>Devill,</hi> and will preſerve your ſoule;</l>
+               <l>Lay out your money, hang up worldly pelfe,</l>
+               <l>I will ſel't cheaper, then I had't my ſelfe:</l>
+               <l>It's ſtrange to ſee how men their money keepe,</l>
+               <l>What come you all to <hi>Lambeth Fayr</hi> to ſleepe,</l>
+               <l>Come buy <hi>lawn ſleeves.</hi> I haue no money took,</l>
+               <l>Here, try them on, you'l like a <hi>Biſhop</hi> looke.</l>
+               <l>And may get honour, both of great and ſmall,</l>
+               <l>And Lord it ore your fellow Brethren all:</l>
+               <l>If that the times ſhould chance once more to turne,</l>
+               <l>Then might you Lord it, like as we have done,</l>
+               <l>Come hither friend, and buy this ſilken Gowne,</l>
+               <l>I'm ſure you cannot match't in <hi>Lambeth</hi> Towne:</l>
+               <l>In this ſame Gown, did <hi>Canterburies Grace,</hi>
+               </l>
+               <l>At <hi>High-Commiſſion</hi> ſhew his graceleſſe face;</l>
+               <l>Many a ſtorme, and ſhower it will abide,</l>
+               <l>Yea, and a world of knavery 't will hide;</l>
+               <l>Sir, looke upon't, and view it at your leiſure,</l>
+               <l>Goe to the price, for you I faine would pleaſure,</l>
+               <l>Come buy his <hi>Graces Gown,</hi> the price is ſmall,</l>
+               <l>And if you will I'le ſell you grace and all.</l>
+               <l>Though he have worn't, it's neere the worſe for wearing,</l>
+               <l>Girt it but cloſe, and never feare the tearing.</l>
+            </lg>
+            <lg>
+               <l>Come buy my <hi>Croſier ſtaffe,</hi> another he begins,</l>
+               <l>Tis excellent to keepe Dogs from your ſhins:</l>
+               <l>Pray Sir let me ſome of your money take,</l>
+               <l>And keepe this ſtaffe for its old maſters ſake.</l>
+            </lg>
+            <lg>
+               <l>Another comes, as if his back would breake,</l>
+               <l>Burthen'd with <hi>
+                     <g ref="char:V">Ʋ</g>eſtures,</hi> and gan thus to ſpeake,</l>
+               <l>
+                  <hi>Trinkets</hi> I have good ſtore, within my packe,</l>
+               <l>I pray you view them, and ſee what you lack;</l>
+               <pb facs="tcp:156908:5"/>
+               <l>See for your love, and for your Money buy,</l>
+               <l>Name what you want, I'le fit you preſently,</l>
+               <l>My packe it is a <hi>Wardrobe,</hi> large and faire,</l>
+               <l>Wherein are <hi>Miters, Caps</hi> rotund, and ſquare,</l>
+               <l>The Rar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Epiſcopalls, that ere you ſee,</l>
+               <l>Are in my packe, come pray you buy of me;</l>
+               <l>Hear's rich Embroydred weare, chuſe where you pleaſe,</l>
+               <l>I have a thouſand ſuch like knackes as theſe:</l>
+               <l>Buy this brave Rochet, buy this curious Cope,</l>
+               <l>The Tippet, Scarfe, they all came from the Pope;</l>
+               <l>I'le ſell them at rate you cannot looſe,</l>
+               <l>Or elſe exchange them for a pair of ſhooſe;</l>
+               <l>I muſt to <hi>Rome,</hi> I can no longer ſtay,</l>
+               <l>I pray you buy them, I muſt hence away.</l>
+            </lg>
+            <lg>
+               <l>Then after that unto this Jolly <hi>Faire,</hi>
+               </l>
+               <l>A little <hi>Wren,</hi> came flying through the ayre,</l>
+               <l>And on his back betwixt his wings he bore,</l>
+               <l>A Minſter ſtuft with <hi>Croſſes, Altars</hi> ſtore,</l>
+               <l>With Sacred <hi>Fonts,</hi> and rare guilt
+<hi>Cherubims,</hi>
+               </l>
+               <l>And bellowing <hi>Organs,</hi> chanting curious
+<hi>Hymmes,</hi>
+               </l>
+               <l>The Hallow'd Hoſt, dum Prieſts, and ſinging boyes,</l>
+               <l>With Antick Cringers, and a thouſand toyes:</l>
+               <l>Thus then this mighty WREN, unto the <hi>Faire,</hi>
+               </l>
+               <l>Brought his <hi>Cathedrall</hi> pack, thus ſtuft with Ware,</l>
+               <l>The door's wide-op't, there thouſands came to ſee,</l>
+               <l>The <hi>Romiſh</hi> Reliques of the Hierarchie;</l>
+               <l>Where all were ſet to ſale, and at low rate,</l>
+               <l>Becauſe they gan to wax quite out of date,</l>
+               <l>Buy my high <hi>Altars,</hi> he lifts up his voyce,</l>
+               <l>All ſorts of <hi>Maſse bookes,</hi> here you may have choyce,</l>
+               <l>Her's Bells <hi>baptiz'd</hi> will make a dainty ſound,</l>
+               <l>Pray if you pleaſe ſtep in and ring them round:</l>
+               <pb facs="tcp:156908:5"/>
+               <l>Then after that were ſeene a <hi>Regiment,</hi>
+               </l>
+               <l>Of <hi>Hell-borne Locuſts</hi> from <hi>Cocitus</hi> ſent,</l>
+               <l>To draw a mighty Cart wherein were brought,</l>
+               <l>
+                  <hi>Plurality</hi> of <hi>Churches</hi> to be bought.</l>
+            </lg>
+            <lg>
+               <l>Then cri'd an other, Sir, what will you buy?</l>
+               <l>I pray ſtep in Sir, do not ſo paſſe by.</l>
+               <l>Here's a <hi>Cathedra,</hi> once Saint <hi>Peters Chaire,</hi>
+               </l>
+               <l>The rareſt thing to buy in <hi>Lambeth Faire.</hi>
+               </l>
+               <l>The candid Surpleſſe, and the Wedding <hi>Ringes:</hi>
+               </l>
+               <l>Pictures for Bibles, and ſuch pretty things:</l>
+               <l>Here's the late <hi>Canons,</hi> and the New found
+<hi>Oath:</hi>
+               </l>
+               <l>To ſell <hi>Et caetera</hi> I am very loath:</l>
+               <l>You formerly haue heard by true Relation:</l>
+               <l>Theſe are the toyes wee made i'th' <hi>Convocation:</hi>
+               </l>
+               <l>
+                  <hi>Oath ex Officio,</hi> here if you will buy:</l>
+               <l>Or <hi>High Commiſſion,</hi> take it preſently.</l>
+               <l>Here's <hi>Ember Weekes</hi> with thin-chapt
+<hi>Jack-a-Lent,</hi>
+               </l>
+               <l>To help you at a pinch when all is ſpent:</l>
+               <l>Here's <hi>Holy Dayes</hi> to ſport the time away:</l>
+               <l>Or Booke of Paſtimes for the <hi>Sabbath Day:</hi>
+               </l>
+               <l>Here's <hi>Deanes</hi> and <hi>Prebends,</hi> and the filthy Neſt</l>
+               <l>Of <hi>Purſevants, Promoters</hi> and the reſt,</l>
+               <l>
+                  <hi>Chancelours, Officialls, Surrogates,</hi> and all</l>
+               <l>The lofty <hi>Courtiers</hi> of <hi>Commiſſion Hall:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come <hi>Clergy</hi> Chapmen, to your <hi>Hierarchie,</hi>
+               </l>
+               <l>Heers exc'lent <hi>Ware,</hi> as good as ere you ſee;</l>
+               <l>
+                  <hi>Jure Divino,</hi> that's become our Doome,</l>
+               <l>Wee'l ſel't for Wharfage to the Coaſt of
+<hi>Room.</hi>
+               </l>
+               <l>
+                  <hi>Burialls,</hi> and <hi>Churchings,</hi> we have wondrous ſtore,</l>
+               <l>Upon my word, they all came from the <hi>Whore;</hi>
+               </l>
+               <l>Then next to him, a fiery fat guts fell,</l>
+               <l>Brought ſix and twenty <hi>Biſhopricks</hi> to ſell;</l>
+               <pb facs="tcp:156908:6"/>
+               <l>With gages and whips, and Priſons for all thoſe,</l>
+               <l>That ſhould their curſed Hierarchie oppoſe,</l>
+               <l>With catch him <hi>Purſevant,</hi> take him to the
+<hi>Iaile,</hi>
+               </l>
+               <l>There let him lye without <hi>Mainpriſe</hi> or
+<hi>Baile,</hi>
+               </l>
+               <l>'Ere he get from us, wee will make him ſee</l>
+               <l>Experimentally, wee Biſhops bee:</l>
+               <l>Our <hi>Courts</hi> and <hi>Iuriſdiction's</hi> are at ſale:</l>
+               <l>Come buy them quickly, 'ere they be too ſtale.</l>
+            </lg>
+            <lg>
+               <l>An other Biſhop, with a Box did ride,</l>
+               <l>And with extended voyce he loudly cri'd,</l>
+               <l>To Schollars all that <hi>Miniſters</hi> would bee,</l>
+               <l>Come hither, buy the <hi>Holy Ghoſt</hi> of me;</l>
+               <l>But <hi>Simon Magus</hi> he was in the ground,</l>
+               <l>And none to buy the <hi>Holy Ghoſt</hi> was found.</l>
+            </lg>
+            <lg>
+               <l>An other Biſhop he a Pack brought in,</l>
+               <l>The which was ſtuff'd with <hi>Licences</hi> toth' brim,</l>
+               <l>And preſently he crieth out with fury,</l>
+               <l>Here's <hi>Licences</hi> to Preach, to Church and Bury:</l>
+               <l>If wedding's out and you'r diſpoſ'd to wed,</l>
+               <l>Come buy a <hi>Licence,</hi> and away to Bed.</l>
+            </lg>
+            <lg>
+               <l>What all paſſe by? 'tis ſtrange <hi>Time</hi> turns her wheell,</l>
+               <l>And bends her brow upon us, that wee feell</l>
+               <l>No <hi>handſaile</hi> yet, our <hi>ware's</hi> becharmed ſure,</l>
+               <l>And (like our ſelves) there's none will it indure,</l>
+               <l>It's doom'd to diſmall fate, deſpiſ'd and ſcorn'd,</l>
+               <l>Though nev'r ſo coſtly, or ſo much adorn'd:</l>
+               <l>Here's <hi>omne venale,</hi> yet no money flyes,</l>
+               <l>Our <hi>ware's</hi> dog-cheape, and thus credit dyes:</l>
+               <l>For ſuch a <hi>Fayre</hi> I never did behold,</l>
+               <l>We bring our <hi>ware</hi> but nothing can be ſold:</l>
+               <l>I wonder ſaid one, what was our intent,</l>
+               <l>To make our <hi>Fayre</hi> thus at the
+<hi>Parliament.</hi>
+               </l>
+               <pb facs="tcp:156908:6"/>
+               <l>For we are mocked here by ſawcy Jacks,</l>
+               <l>They bid the <hi>Pedlers,</hi> to put up their
+<hi>Packes.</hi>
+               </l>
+               <l>Another <hi>Biſhop</hi> lifting up his voyce,</l>
+               <l>Cri'd out amain, of Livings I have choice,</l>
+               <l>I'le ſell you two or three, if that you pleaſe,</l>
+               <l>So you'l have money comming in with eaſe,</l>
+               <l>If that to Preach, your ſelfe you can't indure,</l>
+               <l>Get ſome poore <hi>Iourney-man</hi> to ſerve your
+<hi>Cure;</hi>
+               </l>
+               <l>You'l quickly light on ſuch a one I trow,</l>
+               <l>We have made more, then how to live doe know.</l>
+               <l>
+                  <hi>Wax Candles, Tapors,</hi> another cries and calls,</l>
+               <l>Theſe brought I with me from <hi>Cathedrall Paules,</hi>
+               </l>
+               <l>They'l ſcare the Divell, and put him unto flight,</l>
+               <l>When he perceives a conſecrated light;</l>
+               <l>When we at <hi>Mattens,</hi> and at <hi>Even-ſong</hi> were,</l>
+               <l>We had them by us then, devoyd of feare;</l>
+               <l>They'l bring delight unto your eyes and noſe,</l>
+               <l>They burn ſo cleere and ſmell ſo like a Roſe,</l>
+               <l>And when you thinke that it hath burnt enough,</l>
+               <l>Then blow it out, you ſhall not ſmell the ſnuffe,</l>
+               <l>Or elſe you may on whom you will beſtow it,</l>
+               <l>They'l joy to thinke a Biſhop once did owe it.</l>
+            </lg>
+            <lg>
+               <l>Come hither Friend another loud doth call</l>
+               <l>I'le ſell you here my <hi>Common-Prayer-Bookes</hi> all,</l>
+               <l>Sir view this ſame, and take it in your hand,</l>
+               <l>This <hi>Booke</hi> but lately no man durſt withſtand,</l>
+               <l>For if he did, and we thereof did heare,</l>
+               <l>Wee ſure did make him a Commiſſioner,</l>
+               <l>And if he chanc'd apearance for to miſſe,</l>
+               <l>To <hi>Limbo Patrum,</hi> he was ſent for this;</l>
+               <l>And if he did not us ſome money give,</l>
+               <l>In that <hi>Abyſse</hi> we doom'd him ſtill to live.</l>
+               <pb facs="tcp:156908:7"/>
+               <l>Money my hearts another loud doth call,</l>
+               <l>I ſee I am not now in <hi>Lambeth Hall,</hi>
+               </l>
+               <l>No ſooner I from Dinner then was riſen,</l>
+               <l>Men brought me chinke to free them out of Priſon,</l>
+               <l>I'm broke, I'm broke; another then did ſay,</l>
+               <l>Come buy my <hi>Hoods</hi> I can no longer ſtay,</l>
+               <l>What mean ye Sirs? the day is almoſt ſpent,</l>
+               <l>Come buy my <hi>Trinckets</hi> all incontinent;</l>
+               <l>Come hither friend, the price is very ſmall,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſell my <hi>Coate,</hi> it is Canonicall,</l>
+               <l>Come buy this <hi>Miter</hi> Sir, if you be able,</l>
+               <l>The vertue of it is ineſtimable,</l>
+               <l>Buy't Sir, and wear it, and then ſoon I hope,</l>
+               <l>You will riſe higher and become a <hi>Pope,</hi>
+               </l>
+               <l>I tell you truely had not fortune left mee,</l>
+               <l>I would have kept it untill Death bereft me.</l>
+               <l>It now beginning to grow towards night,</l>
+               <l>Comes a grave <hi>Doctor</hi> running in with might,</l>
+               <l>His courage ſtoute was ſomething now abated,</l>
+               <l>He brings his <hi>golden Slippers,</hi> conſecrated,</l>
+               <l>And crys, come buy theſe <hi>Slippers</hi> here of mine,</l>
+               <l>They are emboſſ'd with <hi>Holines Divine,</hi>
+               </l>
+               <l>They will in all your wayes preſerve you ſound,</l>
+               <l>And with them you may tread on holy Ground,</l>
+               <l>If you'l but weare them, this I'le tell you more,</l>
+               <l>You'l leave the Earth, and to the Heavens may ſoare</l>
+               <l>They'r fild with <hi>Holines</hi> within, and round about,</l>
+               <l>Here looke upon them, ſee how't breaketh out.</l>
+            </lg>
+            <lg>
+               <l>If not my <hi>Slippers,</hi> then my great <hi>Bumbo,</hi>
+               </l>
+               <l>Ile ſel't you now; what anſwer? <hi>No no no,</hi>
+               </l>
+               <l>We thought our <hi>ware</hi> would ſell at ſuch a price,</l>
+               <l>And of our hands beene vented in a trice:</l>
+               <pb facs="tcp:156908:7"/>
+               <l>That this laſt <hi>Act</hi> upon the <hi>Engliſh</hi> Stage,</l>
+               <l>Would forded money, for our pilgrimmage</l>
+               <l>To <hi>Babylon</hi> the Great; how'ere we dream'd no leſſe,</l>
+               <l>Then Ranſom for his priſoned <hi>Holyneſse;</hi>
+               </l>
+               <l>But he, nor we, muſt by this <hi>Lambeth Faire,</hi>
+               </l>
+               <l>Get help I ſee, by this our <hi>Popiſh ware.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Whilſt thus the <hi>Biſhops</hi> there, their guts and they,</l>
+               <l>Cal'd to their <hi>Cuſtomers</hi> to come away,</l>
+               <l>A <hi>Meſſenger</hi> came running through the croud,</l>
+               <l>And to the <hi>Biſhops</hi> thus he ſpake aloud,</l>
+               <l>Away to <hi>Rome</hi> or <hi>Tiburne</hi> chuſe you whether,</l>
+               <l>I know your ſhooes are made of <hi>running leather:</hi>
+               </l>
+               <l>For all the Lawes oth' Land, you have out run,</l>
+               <l>And I come here to tell you what is done,</l>
+               <l>The <hi>Parliament</hi> hath pul'd your pride toth' ground,</l>
+               <l>And by the <hi>Houſe</hi> three times y'are <hi>voted down,</hi>
+               </l>
+               <l>Your <hi>war's</hi> not worth a —, for all your cogging,</l>
+               <l>See where the <hi>Hangman</hi> comes, away, be jogging,</l>
+               <l>Alas cryed they, is all our labour loſſe?</l>
+               <l>Others get money, we have but the Croſſe!</l>
+               <l>For we are croſſed in our expedition,</l>
+               <l>And fly we muſt, for all <hi>Oxfords</hi> Petition,</l>
+               <l>Yet notwithſtanding herein lies our hope,</l>
+               <l>We ſhall be entertained by the <hi>Pope.</hi>
+               </l>
+               <l>With that like men of Sences quite bereft,</l>
+               <l>They ran away and all their trinckets left,</l>
+               <l>A friend of mine to me did then repaire,</l>
+               <l>Deſireing me, to pen this famous <hi>Fayr,</hi>
+               </l>
+               <l>Which I have done, and have it here to ſell;</l>
+               <l>Come buy the <hi>Faire</hi> of me, and ſo farewell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
